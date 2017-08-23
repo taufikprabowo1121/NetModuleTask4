@@ -1,0 +1,6 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\bin\Debug\NetModulTask4.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\bin\Debug\NetModulTask4.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\bin\Debug\NetModulTask4.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\obj\Debug\NetModulTask4.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\obj\Debug\NetModulTask4.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\NetModulTask4\NetModulTask4\obj\Debug\NetModulTask4.pdb
